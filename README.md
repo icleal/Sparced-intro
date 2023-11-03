@@ -5,7 +5,7 @@ To entirely understand what the SPARCED model is, it is best learn what it came 
 # The origin of SPARCED
 In 2022, the large-scale pan-cancer model detailed above was published in [*nature communications*](https://www.nature.com/articles/s41467-022-31138-1). What changed? In an environment where there is an abundance of [FAIR](https://www.go-fair.org/fair-principles/) and big omics data sets in literature, the opportunity to build large-scale mechanistic models has increased.  In order for these new models to be re-creatable and/or used as building blocks for whole-cell mechanistic models, there is a need for a standard set of rules (while adhering to FAIR) that detail the appropriate way to build mechanistic models based on canonical biological data.  Enter the SPACRED model, which utilizes easily modifiable text files that are then transformed into [SBML](https://sbml.org/) format prior to model initialization.  This order of operations exponentially decreases the likelihood of bookkeeping errors and ensures additional pathways can be added to the SPARCED model by researchers within its original lab or elsewhere.   
 # How Download SPARCED
-We suggest running SPARCED through a Docker Container.
+We suggest running SPARCED through a Docker Container on your machine.
 1. Download [Docker](https://docs.docker.com/get-docker/) and create and account
 
 
