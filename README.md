@@ -14,3 +14,7 @@ We suggest running SPARCED through a Docker Container on your machine.
 
 
 How is the sparced model laid out <h6> The design is hierarchical.  It is a large model made of many smaller models, one from many.  This allows for incremental improvements, until the model is as comprehensive as it needs to be.  
+
+
+# How to run the SPARCED model on docker
+After all the prerequesites have been complete you are finally ready to run the sparced model.  When that time click [this](https://youtu.be/TpziboQm0qs) link.
