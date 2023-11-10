@@ -18,7 +18,10 @@ The design is hierarchical.  It is a large model made of many smaller models, on
 
 
 # How to run the SPARCED model on docker
-After all the prerequesites have been complete you are finally ready to run the sparced model.  When that time click [this](https://youtu.be/TpziboQm0qs) link.
+After all the prerequesites have been complete you are finally ready to run the sparced model.  [This link](https://youtu.be/TpziboQm0qs) will walk you through exactly how to do that.
+
+# How to run the SPARCED model on palmetto
+
 
 
 
