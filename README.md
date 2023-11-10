@@ -21,7 +21,7 @@ The design is hierarchical.  It is a large model made of many smaller models, on
 After all the prerequesites have been complete you are finally ready to run the sparced model.  [This link](https://youtu.be/TpziboQm0qs) will walk you through exactly how to do that.
 
 # How to run the SPARCED model on palmetto
-
+Larger more comprehenisve data sets require more computing power to generate, in a timely manner.  If buying a supercomputer is not something that can be easily accomplished, palmetto can be used. [This link](https://docs.google.com/presentation/d/1Doqqxc7U7tEDwjnZbUdJFkDByoTOyPUZQHn0qXMnG3g/edit#slide=id.p) will walk you through exactly how to do that.  More about what palmetto is can be found [here](https://docs.rcd.clemson.edu/palmetto/about/O).
 
 
 
