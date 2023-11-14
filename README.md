@@ -9,7 +9,7 @@ In 2022, the large-scale pan-cancer model detailed above was published in [*natu
 # How to Download SPARCED
 1. Download Windows subsystem for Linux by following [this video](https://www.youtube.com/watch?v=refuSqTQ4qk)
 2. Download Anaconda by following [this video](https://www.youtube.com/watch?v=MUZtVEDKXsk)
-The [read.me](https://github.com/birtwistlelab/SPARCED/blob/master/README.md) file on Dr. Birtwistle's repository fully explains how to download and run the model, but running the model will be reiterated later in a video made by Jonah.  
+
 
 ****ADD MORE HERE****
 
