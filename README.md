@@ -13,10 +13,10 @@ The design is hierarchical.  It is a large model made of many smaller models, on
 
 
 # How to run the SPARCED model on docker
-The SPARCED model can be run through docker.  Go to the docker website, make an account and download docker.  Then once that is done the sparced model can be run.  [This link](https://youtu.be/TpziboQm0qs) will walk you through exactly how to do that.
+The SPARCED model can be run through docker.  First go to the docker website, make an account and download docker.  Then once that is done the sparced model can be run.  [This link](https://youtu.be/TpziboQm0qs) will walk you through exactly how to do that.  To learn more about docker go [here](https://www.docker.com/resources/what-container/).
 
 # How to run the SPARCED model on palmetto
-Larger more comprehenisve data sets require more computing power to generate, in a timely manner.  If buying a supercomputer is not something that can be easily accomplished, palmetto can be used. [This link](https://docs.google.com/presentation/d/1Doqqxc7U7tEDwjnZbUdJFkDByoTOyPUZQHn0qXMnG3g/edit#slide=id.p) will walk you through exactly how to do that.  More about what palmetto is can be found [here](https://docs.rcd.clemson.edu/palmetto/about/).
+Larger more comprehenisve data sets require more computing power to generate in a timely manner.  If buying a supercomputer is not something that can be easily accomplished, palmetto can be used. [This link](https://docs.google.com/presentation/d/1Doqqxc7U7tEDwjnZbUdJFkDByoTOyPUZQHn0qXMnG3g/edit#slide=id.p) will walk you through exactly how to do that.  More about what palmetto is can be found [here](https://docs.rcd.clemson.edu/palmetto/about/).
 
 # What Will a C.I. student do?
 Intially what must be done is everything outlined thus far.  Then new models that can be integrated into the model must be found.  First a model must be found, then its paper read.  It must be assesed to see if it is reliable, and if it is, it must be decided if it will it be easy to integrate into the SPARCED model.  This is a slow process because, as you will find out, reading papers take a good deal of time.  
