@@ -7,7 +7,7 @@ The purpose of this page is to share the basic knowledge required to operate the
 > - Running SPARCED on Docker
 > - Running SPARCED on Palmetto
 > - Role of a C.I. Student
-> - Current Tasks
+> - Current Task
 #  Pan-Cancer Model <h6> 
 To entirely understand what the SPARCED model is, it is best learn what it came from.  This would be the PAN-cancer model.  The official paper can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5886578/).  This is a mechanistic model of Cancer in a MCF10A cell, which is a non-tumorigenic epithelial cell line.  The model is an "integrated system of ordinary differential equations"  which was coded in MATLAB, and buttressed by CVODES, a software library that aids with the solving of ordinary differential equations.  Now how will a simulation help further our understanding of cancer?  Well, the claim is that this "model mechanistically interprets context-specific landscapes between driver pathways and cell fates, providing a framework for designing more rational cancer combination therapy.”  So data can be collected from designed situations, a revolutionary advancement.  We can be prepared for an event that has not yet occurred.  Normally a real person has to have cancer for data to be collected, which has lots of constraints.  
 # Origin of SPARCED Model
@@ -27,7 +27,7 @@ Larger more comprehenisve data sets require more computing power to generate in 
 # Role of a C.I. Student
 Intially what must be done is everything outlined thus far.  Then new models that can be integrated into the model must be found.  First a model must be found, then its paper read.  It must be assesed to see if it is reliable, and if it is, it must be decided if it will it be easy to integrate into the SPARCED model.  This is a slow process because, as you will find out, reading papers take a good deal of time.  
 
-# Current Task: 
+# Current Task 
 Adding a new pathway into the model-- TGF-Beta Pathway
 ![1701893175083-3eba7d6c-eae6-457b-a32d-df7bae9af59e_1](https://github.com/Chubbysoap/Sparced-intro/assets/18647080/adc39f43-9f20-484a-818c-8339eb2ece67)
 
