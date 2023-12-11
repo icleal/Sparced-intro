@@ -8,7 +8,6 @@ The purpose of this page is to share the basic knowledge required to operate the
 > - Running SPARCED on Palmetto
 > - Role of a C.I. Student
 > - Current tasks
-> - PanCancer/ Bouhadou <br / > - Origin of SPARCED <br /> -How to set up SPARCEDon the command line <br /> -How to run it on Palmetto
 #  Pan-Cancer Model <h6> 
 To entirely understand what the SPARCED model is, it is best learn what it came from.  This would be the PAN-cancer model.  The official paper can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5886578/).  This is a mechanistic model of Cancer in a MCF10A cell, which is a non-tumorigenic epithelial cell line.  The model is an "integrated system of ordinary differential equations"  which was coded in MATLAB, and buttressed by CVODES, a software library that aids with the solving of ordinary differential equations.  Now how will a simulation help further our understanding of cancer?  Well, the claim is that this "model mechanistically interprets context-specific landscapes between driver pathways and cell fates, providing a framework for designing more rational cancer combination therapy.”  So data can be collected from designed situations, a revolutionary advancement.  We can be prepared for an event that has not yet occurred.  Normally a real person has to have cancer for data to be collected, which has lots of constraints.  
 # Origin of SPARCED Model
