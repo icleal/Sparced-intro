@@ -27,6 +27,7 @@ Larger more comprehenisve data sets require more computing power to generate in 
 # Role of a C.I. Student
 Intially what must be done is everything outlined thus far.  Then new models that can be integrated into the model must be found.  First a model must be found, then its paper read.  It must be assesed to see if it is reliable, and if it is, it must be decided if it will it be easy to integrate into the SPARCED model.  This is a slow process because, as you will find out, reading papers take a good deal of time.  
 
-# Currently: adding a new pathway into the model-- TGF-Beta Pathway
+# Current Task: 
+Adding a new pathway into the model-- TGF-Beta Pathway
 ![1701893175083-3eba7d6c-eae6-457b-a32d-df7bae9af59e_1](https://github.com/Chubbysoap/Sparced-intro/assets/18647080/adc39f43-9f20-484a-818c-8339eb2ece67)
 
