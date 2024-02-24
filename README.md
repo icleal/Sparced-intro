@@ -33,4 +33,6 @@ Adding a new pathway into the model: TGF-Beta Pathway
 
 Update 2/2/2024
 ![image](https://github.com/icleal/Sparced-intro/assets/149642739/c8c7d749-b36f-4f21-b66c-bf451d25f7a3)
+![image](https://github.com/icleal/Sparced-intro/assets/149642739/b18f5e91-d6cb-44e8-a7e1-7398b82db768)
+![image](https://github.com/icleal/Sparced-intro/assets/149642739/08f68c79-46ac-4620-831e-3cdad9f4d452)
 
