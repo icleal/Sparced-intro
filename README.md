@@ -31,7 +31,7 @@ Intially what must be done is everything outlined thus far.  Then new models tha
 Adding a new pathway into the model: TGF-Beta Pathway
 ![1701893175083-3eba7d6c-eae6-457b-a32d-df7bae9af59e_1](https://github.com/Chubbysoap/Sparced-intro/assets/18647080/adc39f43-9f20-484a-818c-8339eb2ece67)
 
-Update 2/2/2024
+Update of TGF-B Schematic Maps 2/2/2024
 ![image](https://github.com/icleal/Sparced-intro/assets/149642739/c8c7d749-b36f-4f21-b66c-bf451d25f7a3)
 ![image](https://github.com/icleal/Sparced-intro/assets/149642739/b18f5e91-d6cb-44e8-a7e1-7398b82db768)
 ![image](https://github.com/icleal/Sparced-intro/assets/149642739/08f68c79-46ac-4620-831e-3cdad9f4d452)
