@@ -28,6 +28,9 @@ Larger more comprehenisve data sets require more computing power to generate in 
 Intially what must be done is everything outlined thus far.  Then new models that can be integrated into the model must be found.  First a model must be found, then its paper read.  It must be assesed to see if it is reliable, and if it is, it must be decided if it will it be easy to integrate into the SPARCED model.  This is a slow process because, as you will find out, reading papers take a good deal of time.  
 
 # Current Task 
-Adding a new pathway into the model-- TGF-Beta Pathway
+Adding a new pathway into the model: TGF-Beta Pathway
 ![1701893175083-3eba7d6c-eae6-457b-a32d-df7bae9af59e_1](https://github.com/Chubbysoap/Sparced-intro/assets/18647080/adc39f43-9f20-484a-818c-8339eb2ece67)
+
+Update 2/2/2024
+![image](https://github.com/icleal/Sparced-intro/assets/149642739/c8c7d749-b36f-4f21-b66c-bf451d25f7a3)
 
